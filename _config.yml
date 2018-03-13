@@ -13,13 +13,16 @@ url:                 https://csm9493.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             Ph.D Student \n M.IN.D Lab in SKKU
+tagline:             Ph.D Student
+
+	             M.IN.D Lab in SKKU
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Ph.D Student majored in
-  Machine Learning and Deep Learning
+  Ph.D Student 
+
+  that enjoyed sports
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
