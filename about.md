@@ -11,13 +11,13 @@ Hi. I am Sungmin cha and Ph.D student in M.IN.D Lab in SKKU(SungKyunkwan Univers
 
 ## Education
 
-- Ph.D
+- Ph.D  
 Department of Electronic, Electical & Computer Engineering, SungKyunKwan Univ(2018~, ing)
 
-- MS
+- MS  
 Department of Information and Communication Engineering, DGIST(2018)
 
-- BS
+- BS  
 Department of Computer Enginerring, Pukyoung National University(2016)
 
 ## Research Topics
@@ -29,7 +29,7 @@ Department of Computer Enginerring, Pukyoung National University(2016)
 
 ## Papers
 
-[C1] Neural adaptive image denoiser
-Sungmin Cha and Taesup Moon
+[C1] Neural adaptive image denoiser  
+Sungmin Cha and Taesup Moon  
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), April 2018
 
