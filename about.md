@@ -7,7 +7,7 @@ order: 0
 
 ## Introduction
 
-Hi. I am Sungmin cha and Ph.D student in M.IN.D Lab in SKKU(SungKyunKwan University)
+Hi. I am Sungmin Cha and Ph.D student in M.IN.D Lab in SKKU(SungKyunKwan University)
 
 ## Education
 
