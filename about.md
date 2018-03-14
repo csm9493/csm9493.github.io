@@ -7,13 +7,13 @@ order: 0
 
 ## Introduction
 
-Hi. I am Sungmin Cha and Ph.D student in [M.IN.D Lab](https://mindlab-skku.github.io) in [SKKU(SungKyunKwan University)](http://skku.edu)
+Hi. I am Sungmin Cha and Ph.D student in [M.IN.D Lab](https://mindlab-skku.github.io) in [SungKyunKwan University](http://skku.edu)
 
 ## Education
 
 - Ph.D [2018.3 ~, current]  
 Department of Electronic, Electical & Computer Engineering  
-SungKyunKwan Univ(SKKU)
+SungKyunKwan University(SKKU)
 
 - MS [2016.3 ~ 2018.2]  
 Department of Information and Communication Engineering  
