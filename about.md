@@ -11,14 +11,14 @@ Hi. I am Sungmin cha and Ph.D student in M.IN.D Lab in SKKU(SungKyunkwan Univers
 
 ## Education
 
-- Ph.D  
-Department of Electronic, Electical & Computer Engineering, SKKU(2018~, ing)
+- Ph.D [2018.3 ~, ing]
+Department of Electronic, Electical & Computer Engineering, SKKU
 
-- MS  
-Department of Information and Communication Engineering, DGIST(2018)
+- MS [2016.3 ~ 2018.2]
+Department of Information and Communication Engineering, DGIST
 
-- BS  
-Department of Computer Enginerring, Pukyoung National University(2016)
+- BS [2009.3 ~ 2016.2]
+Department of Computer Enginerring, Pukyoung National University
 
 ## Research Topics
 
