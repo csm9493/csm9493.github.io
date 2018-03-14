@@ -28,7 +28,7 @@ author:
   email:             csm9493@gmail.com
 
 # Fallback image and color
-image:               /assets/img/mcc1.jpeg
+image:               /assets/img/mcc2.jpeg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
