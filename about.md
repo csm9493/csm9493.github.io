@@ -7,23 +7,22 @@ order: 0
 
 ## Introduction
 
-Hi. I am Sungmin cha and Ph.D student in M.IN.D Lab in SKKU(SungKyunkwan University)
+Hi. I am Sungmin cha and Ph.D student in M.IN.D Lab in SKKU(SungKyunKwan University)
 
 ## Education
 
-- Ph.D [2018.3 ~, ing]
+- Ph.D [2018.3 ~, ing]  
 Department of Electronic, Electical & Computer Engineering, SKKU
 
-- MS [2016.3 ~ 2018.2]
+- MS [2016.3 ~ 2018.2]  
 Department of Information and Communication Engineering, DGIST
 
-- BS [2009.3 ~ 2016.2]
+- BS [2009.3 ~ 2016.2]  
 Department of Computer Enginerring, Pukyoung National University
 
 ## Research Topics
 
-- Machine Learning
-- Deep Learning
+- Machine Learning and Deep Learning
 - Image Denoising using Deep Learning
 - Deep Reinforcement Learning
 
