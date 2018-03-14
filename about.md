@@ -18,7 +18,7 @@ Department of Electronic, Electical & Computer Engineering, SKKU
 Department of Information and Communication Engineering, DGIST
 
 - BS [2009.3 ~ 2016.2]  
-Department of Computer Enginerring, Pukyoung National University
+Department of Computer Engineering, Pukyoung National University
 
 ## Research Topics
 
