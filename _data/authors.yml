@@ -59,7 +59,7 @@ isme2n:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:csm9493@gmail.com
-    rss:             https://csm9493.github.io/feed.xml
+    # rss:             https://csm9493.github.io/feed.xml
 
 # Another author
 mdo:
