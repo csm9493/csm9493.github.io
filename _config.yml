@@ -18,9 +18,9 @@ tagline:             If failed, until success.
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         |
+  csm9493@gmail.com  
   Ph.D Student  
-  M.IN.D Lab  
-  SungKyunKwan Univ  
+  M.IN.D Lab, SKKU  
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
