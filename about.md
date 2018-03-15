@@ -7,7 +7,7 @@ order: 0
 
 ## Introduction
 
-Hi. I am Sungmin Cha and Ph.D student in [M.IN.D Lab(advisor:Taesup Moon)](https://mindlab-skku.github.io), [SungKyunKwan University](http://skku.edu).
+Hi. I am Sungmin Cha and Ph.D student in [M.IN.D Lab](https://mindlab-skku.github.io) in [SungKyunKwan University](http://skku.edu).
 
 ## Education
 
