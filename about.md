@@ -7,7 +7,7 @@ order: 0
 
 ## Introduction
 
-Hi. I am Sungmin Cha and Ph.D student in [M.IN.D Lab](https://mindlab-skku.github.io), [SungKyunKwan University](http://skku.edu)
+Hi. I am Sungmin Cha and Ph.D student in [M.IN.D Lab](https://mindlab-skku.github.io), [SungKyunKwan University](http://skku.edu).
 
 ## Education
 
@@ -26,8 +26,8 @@ Pukyoung National University(PKNU)
 ## Research Topics
 
 - Machine Learning and Deep Learning
-- Image Denoising using Deep Learning
 - Deep Reinforcement Learning
+- Image Denoising using Deep Learning
 
 ## Papers
 
