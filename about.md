@@ -11,7 +11,7 @@ Hi. I am Sungmin Cha and Ph.D student in [M.IN.D Lab](https://mindlab-skku.githu
 
 ## Education
 
-- Ph.D [2018.3 ~, current]  
+- Ph.D [2018.3 ~ , Current]  
 Department of Electronic, Electical & Computer Engineering  
 SungKyunKwan University(SKKU)
 
