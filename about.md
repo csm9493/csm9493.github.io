@@ -26,12 +26,16 @@ Pukyoung National University(PKNU)
 ## Research Topics
 
 - Machine Learning and Deep Learning
-- Deep Reinforcement Learning
+- Continual Learning
 - Image Denoising using Deep Learning
 
 ## Papers
 
-[C1] [Neural adaptive image denoiser](https://2018.ieeeicassp.org/Papers/ViewPapers.asp?PaperNum=3035)  
+[C1] [Neural adaptive image denoiser](http://115.145.145.158/files/Conference/icassp_aide.pdf)  
 ***Sungmin Cha*** and Taesup Moon  
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), April 2018
+
+[C1] [DoPAMINE: Double-sided Masked CNN for Pixel Adaptive Multiplicative Noise Despeckling***(Oral)***](https://arxiv.org/abs/1902.02530)
+Sunghwan Joo, ***Sungmin Cha***, and Taesup Moon
+The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), Febrary 2019
 
