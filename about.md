@@ -33,9 +33,9 @@ Pukyoung National University(PKNU)
 
 [C1] [Neural adaptive image denoiser](http://115.145.145.158/files/Conference/icassp_aide.pdf)  
 ***Sungmin Cha*** and Taesup Moon  
-IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), April 2018
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), April 2018
 
-[C1] [DoPAMINE: Double-sided Masked CNN for Pixel Adaptive Multiplicative Noise Despeckling***(Oral)***](https://arxiv.org/abs/1902.02530)
+[C1] [DoPAMINE: Double-sided Masked CNN for Pixel Adaptive Multiplicative Noise Despeckling**(Oral)**](https://arxiv.org/abs/1902.02530)
 Sunghwan Joo, ***Sungmin Cha***, and Taesup Moon  
-The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), Febrary 2019
+The Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**), Febrary 2019
 
