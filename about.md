@@ -35,7 +35,7 @@ Pukyoung National University(PKNU)
 ***Sungmin Cha*** and Taesup Moon  
 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), April 2018
 
-[C1] [DoPAMINE: Double-sided Masked CNN for Pixel Adaptive Multiplicative Noise Despeckling**(Oral)**](https://arxiv.org/abs/1902.02530)
+[C2] [DoPAMINE: Double-sided Masked CNN for Pixel Adaptive Multiplicative Noise Despeckling**(Oral)**](https://arxiv.org/abs/1902.02530)
 Sunghwan Joo, ***Sungmin Cha***, and Taesup Moon  
 The Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**), Febrary 2019
 
