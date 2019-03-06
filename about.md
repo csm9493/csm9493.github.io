@@ -36,4 +36,5 @@ Sunghwan Joo, ***Sungmin Cha***, and Taesup Moon
 The Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**), Febrary 2019  
 
 [C1] [Neural adaptive image denoiser](http://115.145.145.158/files/Conference/icassp_aide.pdf)  
-***Sungmin Cha*** and Taesup Moon  
+***Sungmin Cha*** and Taesup Moon 
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), April 2018 
