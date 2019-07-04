@@ -57,7 +57,7 @@ Supervised Neural DUDE for adaptive discrete denoising
 
 ### Conference
 
-[C2] [DoPAMINE: Double-sided Masked CNN for Pixel Adaptive Multiplicative Noise Despeckling**(Oral)**](https://arxiv.org/abs/1902.02530)
+[C2] [DoPAMINE: Double-sided Masked CNN for Pixel Adaptive Multiplicative Noise Despeckling**(Oral)**](https://arxiv.org/abs/1902.02530)  
 Sunghwan Joo, ***Sungmin Cha***, and Taesup Moon  
 The Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**), Febrary 2019  
 
