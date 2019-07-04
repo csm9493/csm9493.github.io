@@ -29,33 +29,33 @@ Pukyoung National University(PKNU)
 - Continual Learning
 - Image Denoising using Deep Learning
 
+
 ## Papers
 
-# Preprint
+### Preprint
 
-Interpreting machine learning models in neuroimaging: Towards a unified framework
-Lada Kohoutova, Juyeon Heo, ***Sungmin Cha***, Taesup Moon, Tor D. Wager and Choong-Wan Woo
-*Under review*
+Interpreting machine learning models in neuroimaging: Towards a unified framework  
+Lada Kohoutova, Juyeon Heo, ***Sungmin Cha***, Taesup Moon, Tor D. Wager and Choong-Wan Woo  
+*Under review*  
 
-[Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)
-Hongjoon Ahn, ***Sungmin Cha***, Donggyu Lee and Taesup Moon
-*Under review*
+[Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
+Hongjoon Ahn, ***Sungmin Cha***, Donggyu Lee and Taesup Moon  
+*Under review*  
 
-[GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)
-***Sungmin Cha***, Taeeon Park and Taesup Moon
-*Under reivew*
+[GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
+***Sungmin Cha***, Taeeon Park and Taesup Moon  
+*Under reivew*  
 
-Supervised Neural DUDE for adaptive discrete denoising
-***Sungmin Cha***, Seonwoo Min,Sungroh Yoon and Taesup Moon
-*Under review*
+Supervised Neural DUDE for adaptive discrete denoising  
+***Sungmin Cha***, Seonwoo Min,Sungroh Yoon and Taesup Moon  
+*Under review*  
 
 [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569)  
 ***Sungmin cha*** and Taesup Moon  
 *Under review*  
 
 
-
-# Conference
+### Conference
 
 [C2] [DoPAMINE: Double-sided Masked CNN for Pixel Adaptive Multiplicative Noise Despeckling**(Oral)**](https://arxiv.org/abs/1902.02530)
 Sunghwan Joo, ***Sungmin Cha***, and Taesup Moon  
@@ -64,3 +64,6 @@ The Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**), Febrary 
 [C1] [Neural adaptive image denoiser](http://115.145.145.158/files/Conference/icassp_aide.pdf)  
 ***Sungmin Cha*** and Taesup Moon  
 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), April 2018 
+
+
+## Journal
