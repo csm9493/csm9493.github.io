@@ -47,7 +47,7 @@ Hongjoon Ahn, ***Sungmin Cha***, Donggyu Lee and Taesup Moon
 *Under reivew*  
 
 Supervised Neural DUDE for adaptive discrete denoising  
-***Sungmin Cha***, Seonwoo Min,Sungroh Yoon and Taesup Moon  
+***Sungmin Cha***, Seonwoo Min, Sungroh Yoon and Taesup Moon  
 *Under review*  
 
 [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569)  
@@ -66,4 +66,4 @@ The Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**), Febrary 
 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), April 2018 
 
 
-## Journal
+### Journal
