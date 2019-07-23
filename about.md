@@ -50,12 +50,11 @@ Supervised Neural DUDE for adaptive discrete denoising
 ***Sungmin Cha***, Seonwoo Min, Sungroh Yoon and Taesup Moon  
 *Under review*  
 
-[Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569)  
-***Sungmin cha*** and Taesup Moon  
-*Under review*  
-
 
 ### Conference
+[C3] [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569)[Code](https://github.com/csm9493/FC-AIDE-Keras)  
+***Sungmin cha*** and Taesup Moon  
+International Conference on Computer Vision (**ICCV**), November 2019  
 
 [C2] [DoPAMINE: Double-sided Masked CNN for Pixel Adaptive Multiplicative Noise Despeckling**(Oral)**](https://arxiv.org/abs/1902.02530)  
 Sunghwan Joo, ***Sungmin Cha***, and Taesup Moon  
@@ -64,6 +63,7 @@ The Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**), Febrary 
 [C1] [Neural adaptive image denoiser](http://115.145.145.158/files/Conference/icassp_aide.pdf)  
 ***Sungmin Cha*** and Taesup Moon  
 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), April 2018 
+
 
 
 ### Journal
