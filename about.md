@@ -38,10 +38,6 @@ Interpreting machine learning models in neuroimaging: Towards a unified framewor
 Lada Kohoutova, Juyeon Heo, ***Sungmin Cha***, Taesup Moon, Tor D. Wager and Choong-Wan Woo  
 *Under review*  
 
-[Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
-Hongjoon Ahn, ***Sungmin Cha***, Donggyu Lee and Taesup Moon  
-*Under review*  
-
 [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
 ***Sungmin Cha***, Taeeon Park and Taesup Moon  
 *Under reivew*  
@@ -52,6 +48,10 @@ Supervised Neural DUDE for adaptive discrete denoising
 
 
 ### Conference
+[C4] [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
+Hongjoon Ahn, ***Sungmin Cha***, Donggyu Lee and Taesup Moon  
+Proceedings of Neural Information Processing Systems (***NeurIPS****), December 2019 
+
 [C3] [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569) [[Code]](https://github.com/csm9493/FC-AIDE-Keras)  
 ***Sungmin cha*** and Taesup Moon  
 International Conference on Computer Vision (**ICCV**), November 2019  
