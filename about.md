@@ -5,6 +5,15 @@ menu: true
 order: 0
 ---
 
+<html>
+
+    <meta http-equiv="refresh" content="0; url=https://sites.google.com/view/sungmin-cha/"></meta>
+
+</html>
+
+
+
+
 ## Introduction
 
 Hi. I am ***Sungmin Cha*** and a Ph.D student in [M.IN.D Lab](https://mindlab-skku.github.io), [SungKyunKwan University](http://skku.edu).
