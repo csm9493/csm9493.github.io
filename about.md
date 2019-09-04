@@ -1,3 +1,10 @@
+<html>
+
+    <meta http-equiv="refresh" content="0; url=https://sites.google.com/view/sungmin-cha/"></meta>
+
+</html>
+
+
 ---
 layout: about
 title: About Me
@@ -5,11 +12,6 @@ menu: true
 order: 0
 ---
 
-<html>
-
-    <meta http-equiv="refresh" content="0; url=https://sites.google.com/view/sungmin-cha/"></meta>
-
-</html>
 
 
 
