@@ -50,7 +50,7 @@ Supervised Neural DUDE for adaptive discrete denoising
 ### Conference
 [C4] [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, ***Sungmin Cha***, Donggyu Lee and Taesup Moon  
-Proceedings of Neural Information Processing Systems (***NeurIPS****), December 2019 
+Proceedings of Neural Information Processing Systems (***NeurIPS***), December 2019 
 
 [C3] [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569) [[Code]](https://github.com/csm9493/FC-AIDE-Keras)  
 ***Sungmin cha*** and Taesup Moon  
